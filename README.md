@@ -28,7 +28,7 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 - Download the built APK from [here](https://github.com/roshanrahman/flutter-notes-app/raw/master/github_assets/draft.apk)
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/93028892/155853287-8105b339-3db2-4c78-b9a8-9bbcc71d87af.png" height="600"><img src="https://user-images.githubusercontent.com/93028892/155853322-ab9abe48-cde2-401d-a42d-bfcc0f1439e1.png" height="600">
+<img src="https://user-images.githubusercontent.com/93028892/155853287-8105b339-3db2-4c78-b9a8-9bbcc71d87af.png" height="600">    <img src="https://user-images.githubusercontent.com/93028892/155853322-ab9abe48-cde2-401d-a42d-bfcc0f1439e1.png" height="600">
 **splashscreen**
 
 **login screen**
