@@ -2,20 +2,16 @@
 
 Flutter Task Assignment by Gloify-Internship
 
-
-
 # Draft - Notes app
 
 An TaskNotes app written in Flutter that uses Firebase for storage.
 
-
-
 ## Dependencies
-  ## Firebase
+  Firebase
 - cloud_firestore: ^3.1.9
 - firebase_auth: ^3.3.8
 - firebase_core: ^1.13.0
-  ## StateManagement
+  StateManagement
 - provider: ^6.0.2 
   
 - flutter_launcher_icons: ^0.9.2
